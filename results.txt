@@ -1,0 +1,20 @@
+dataset_name: MSRCv1
+ft_sp_weight: 0.5
+ft_cl_weight: 0.01
+Av_Best: 0.9938	1.0000
+
+NMI_Best: 0.9864	1.0000
+
+Purity_Best: 0.8510	0.8571
+
+ARI_Best: 0.9855	1.0000
+
+ACC: 99.38	0.43
+NMI: 98.64	0.91
+Purity: 85.10	0.43
+ARI: 98.55	0.99
+P: 98.81	0.82
+R: 98.83	0.80
+F: 98.82	0.81
+Finetune Time: 9.64	0.30
+
